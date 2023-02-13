@@ -6,7 +6,7 @@ Random musings on Threat Intel, Threat Modelling and all things describing badne
 Papers and Blog posts
 ---------------------
 
-[Embracing Threat Informed Defense helps defenders sharpen their focus and improve cybersecurity risk posture.](https://github.com/jsaveker/threat-informed-defense/blob/4ef147ffe31a133ca74b78c3fb0abd722d417b43/Embracing%20Threat%20Informed%20Defense.pdf)
+[Embracing Threat Informed Defense](embracing-tid.md)
 
 Tools and Frameworks
 --------------------
