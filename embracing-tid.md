@@ -14,9 +14,9 @@ Threat Informed Defense helps technology teams and business leaders achieve the 
 - What value are we providing to our customers?
 
 The above questions take time to answer in a repeatable and data-based manner.  Thankfully Mitre and other cybersecurity community members have developed tools and frameworks to help implement and automate elements of a Threat Informed Defense program.
-Frameworks such as Mitre Attack™ are now well established and embraced by the cybersecurity industry, enabling a standard nomenclature to describe badness, rank and model threats, and measure coverage and effectiveness.
+Frameworks such as [Mitre Attack™](https://attack.mitre.org/) are now well established and embraced by the cybersecurity industry, enabling a standard nomenclature to describe badness, rank and model threats, and measure coverage and effectiveness.
 
-Mitre’s [Attack Navigator](https://attack.mitre.org/) can provide a visual representation of coverage or specific examples of threat actor campaigns.  
+Mitre’s [Attack Navigator]([https://attack.mitre.org/](https://mitre-attack.github.io/attack-navigator/) can provide a visual representation of coverage or specific examples of threat actor campaigns.  
 
 ![attack-navigator](attack-navigator.png)
 
